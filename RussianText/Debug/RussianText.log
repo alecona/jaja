@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1064): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1073): warning C4101: a: неиспользованная локальная переменная
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1096): warning C4101: formatString: неиспользованная локальная переменная
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1006): warning C4101: n1: неиспользованная локальная переменная
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1321): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1418): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1459): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1479): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+d:\ucheba\projects c\idividualki\russiantext\myform.h(1482): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RussianText.vcxproj -> D:\ucheba\Projects C\Idividualki\Debug\Individualki.exe
